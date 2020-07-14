@@ -1,0 +1,20 @@
+D:\C# code\Project\Login\BAL\bin\Debug\BAL.dll
+D:\C# code\Project\Login\BAL\bin\Debug\BAL.pdb
+D:\C# code\Project\Login\BAL\bin\Debug\BEL.dll
+D:\C# code\Project\Login\BAL\bin\Debug\DAL.dll
+D:\C# code\Project\Login\BAL\bin\Debug\BEL.pdb
+D:\C# code\Project\Login\BAL\bin\Debug\DAL.pdb
+D:\C# code\Project\Login\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+D:\C# code\Project\Login\BAL\obj\Debug\BAL.dll
+D:\C# code\Project\Login\BAL\obj\Debug\BAL.pdb
+C:\Users\User\Desktop\9th Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\Project\Library-management-System-C-Sharp-project-master\BAL\bin\Debug\BAL.dll
+C:\Users\User\Desktop\9th Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\Project\Library-management-System-C-Sharp-project-master\BAL\bin\Debug\BAL.pdb
+C:\Users\User\Desktop\9th Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\Project\Library-management-System-C-Sharp-project-master\BAL\bin\Debug\BEL.dll
+C:\Users\User\Desktop\9th Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\Project\Library-management-System-C-Sharp-project-master\BAL\bin\Debug\DAL.dll
+C:\Users\User\Desktop\9th Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\Project\Library-management-System-C-Sharp-project-master\BAL\bin\Debug\BEL.pdb
+C:\Users\User\Desktop\9th Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\Project\Library-management-System-C-Sharp-project-master\BAL\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\9th Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\Project\Library-management-System-C-Sharp-project-master\BAL\obj\Debug\BAL.csprojAssemblyReference.cache
+C:\Users\User\Desktop\9th Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\Project\Library-management-System-C-Sharp-project-master\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\9th Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\Project\Library-management-System-C-Sharp-project-master\BAL\obj\Debug\BAL.csproj.CopyComplete
+C:\Users\User\Desktop\9th Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\Project\Library-management-System-C-Sharp-project-master\BAL\obj\Debug\BAL.dll
+C:\Users\User\Desktop\9th Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\Project\Library-management-System-C-Sharp-project-master\BAL\obj\Debug\BAL.pdb
